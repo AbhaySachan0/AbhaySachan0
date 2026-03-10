@@ -53,7 +53,3 @@ Implementation of the **`ls` command** written in C.
 * List files in directories
 * Display file names
 * Basic file system interaction
-
----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhaySachan0&layout=compact"/>
-</p>
