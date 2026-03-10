@@ -26,14 +26,6 @@ I enjoy building projects and learning how software works.
 
 ---
 
-## 📚 Currently Learning
-
-* Data Structures
-* Hashing
-* Theory of Automata
-
----
-
 ## 🚀 Project
 
 **User Management System**
