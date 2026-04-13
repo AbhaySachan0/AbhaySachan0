@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Abhay Sachan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Building+Projects;Learning+Systems+Programming&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Building+Projects;Learning+System+Programming&center=true&width=500&height=45">
 </p>
 
 <p align="center">
