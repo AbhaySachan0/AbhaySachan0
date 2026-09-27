@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science & Engineering Student · Backend & Systems Engineer · Linux Native</h3>
 
 <p align="center">
-  I build things close to the metal — CLI tools, custom protocols, kernel drivers, and backend services — usually from scratch, usually in Rust, C, or Go.
+  I build things close to the metal — CLI tools, custom protocols, and backend services — usually from scratch, usually in Rust, C, C++ or Go.
 </p>
 
 <p align="center">
