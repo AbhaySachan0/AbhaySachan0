@@ -32,11 +32,8 @@ I haven't shipped an open-source PR to someone else's repo yet — but I've been
 
 - 🔭 Currently deep in **backend engineering, systems programming, and Linux internals**
 - 🐳 Comfortable containerizing and shipping services with **Docker & Podman**
-- 🧠 Obsessed with **networking, databases, and kernel/driver architecture**
+- 🧠 Obsessed with **networking, databases**
 - 📊 Dabbling in **machine learning** on the side — data pipelines, models, and evaluation
-- 🐚 I live in the shell — Zsh, Bash scripting, and tmux/Zellij multiplexing all day
-- 📓 I document everything — every project starts life as notes in Obsidian before it's a single line of code
-- 🌱 Actively leveling up in **offensive security and digital forensics**
 
 ---
 
