@@ -8,8 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-informational?style=for-the-badge&color=CE422B" />
-  <img src="https://img.shields.io/badge/OS-Fedora%20Linux-informational?style=for-the-badge&logo=fedora&logoColor=white&color=51A2DA" />
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-informational?style=for-the-badge&color=39D353" />
+  
 </p>
 
 <p align="center">
