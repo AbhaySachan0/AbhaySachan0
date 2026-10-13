@@ -32,8 +32,6 @@ I haven't shipped an open-source PR to someone else's repo yet — but I've been
 
 - 🔭 Currently deep in **backend engineering, systems programming, and Linux internals**
 - 🐳 Comfortable containerizing and shipping services with **Docker & Podman**
-- 🧠 Obsessed with **networking, databases**
-- 📊 Dabbling in **machine learning** on the side — data pipelines, models, and evaluation
 
 ---
 
